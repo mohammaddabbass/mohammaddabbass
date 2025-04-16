@@ -52,7 +52,7 @@
 
 ## <img src="https://img.shields.io/badge/-Let's_Connect-4EC5D4?style=flat&logo=connectdevelop&logoColor=white" alt="Connect" /> 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="linkedin.com/in/mohammadabbass">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mohammaddabbass">
