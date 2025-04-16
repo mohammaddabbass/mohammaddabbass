@@ -26,7 +26,7 @@
 <a href="mohammadabbass0701@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail" alt="Email">
 </a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://linkedin.com/in/mohammadabbass" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 ---
@@ -52,7 +52,7 @@
 
 ## <img src="https://img.shields.io/badge/-Let's_Connect-4EC5D4?style=flat&logo=connectdevelop&logoColor=white" alt="Connect" /> 
 <p align="center">
-  <a href="linkedin.com/in/mohammadabbass">
+  <a href="https://linkedin.com/in/mohammadabbass">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mohammaddabbass">
